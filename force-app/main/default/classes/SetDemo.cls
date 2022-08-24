@@ -14,12 +14,8 @@ public class SetDemo {
 
     system.debug('list of cities' + cities);
    
-}
-public static set<integer> setFromList(List<integer> intList) {
-    set<integer> inSet = new Set<integer>();
-    intSet.addAll(intList);
-    return intSet;
 
-}
-
+    
+    
+  }
 }

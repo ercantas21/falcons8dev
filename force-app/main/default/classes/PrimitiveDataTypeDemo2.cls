@@ -6,11 +6,8 @@ public  class PrimitiveDataTypeDemo2 {
     }
     public void print3(){
         System.debug(2+2);
-        
+
     }
 
     
-
-    
 }
-

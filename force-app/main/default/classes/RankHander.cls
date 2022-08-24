@@ -1,4 +1,4 @@
- public  class RankHander {
+public  class RankHander {
     public string rankPrize(integer rank){
         string prize = '';
         if(rank==1){
@@ -24,29 +24,3 @@
         }
             
         }
-
-
-public string rankPrizeSwitch(integer rank){
-string prize = '';
-when 1 {
-    prize = 'gold';
-}
-when 2{
-    prize = 'silver';
-}
-when 3 {
-    prize = 'bronze';
-}
-when 456778 {
-    prize = 'top 10';
-}
-when else {
-    prize =' tahnk you for participatin';
-}
-}
-
-
-
-
-    
-    

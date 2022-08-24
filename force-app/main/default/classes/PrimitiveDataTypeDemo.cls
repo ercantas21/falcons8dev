@@ -50,12 +50,3 @@ public void printBasicDataType3(){
         system.debug('obj4 =' + obj4);
     }
 }
-
-
-
-
-
-
-
-
-

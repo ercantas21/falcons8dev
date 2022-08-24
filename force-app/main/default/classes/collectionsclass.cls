@@ -20,9 +20,8 @@ public  class collectionsclass {
             outputMonth = LstMonth[y-1];
 
         }else{
-            outputMonth = 'Not a valid month';
+            outputMonth= 'Not a valid month';
         }
         return outputMonth;
     }
 }
- 

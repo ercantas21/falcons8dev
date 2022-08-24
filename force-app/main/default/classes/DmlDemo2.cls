@@ -3,7 +3,7 @@ public class DmlDemo2 {
        //1. fetch record
        account acc = [select id, name, Site from account where name like 'Soft%' limit 1];
        //2. update account
-       acc.Name = 'SoftInnovas Inc.';
+       acc.name = 'SoftInnovasInc';
        acc.site = 'www.softinnovas.com';
 
        //3. update DML
